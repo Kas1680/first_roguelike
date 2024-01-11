@@ -1,4 +1,4 @@
-from typing import Set, Iterable, AnyStr
+from typing import Set, Iterable, Any
 from tcod.context import Context
 from tcod.console import Console
 
